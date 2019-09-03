@@ -1,0 +1,88 @@
+
+body{ font: 14px Georgia, serif; background-image: url("img/nissa.jpg"); background-image: no-repeat;}
+
+#wrapper { width: 600px; margin: 0 auto; }
+
+h1  { margin: 25px 0; font: 18px Georgia, Serif; text-transform: uppercase; letter-spacing: 3px; }
+
+#quiz input {
+    vertical-align: middle;
+}
+
+#quiz ul{
+  list-style: none;
+}
+
+#quiz ol {
+   margin: 0 0 10px 20px;
+}
+
+#quiz ol li {
+   margin: 0 0 20px 0;
+}
+
+#quiz ol li div {
+   padding: 4px 0;
+}
+
+#quiz h3 {
+   font-size: 17px; margin: 0 0 1px 0;
+}
+
+#results {
+    font: 44px Georgia, Serif;
+}
+
+.score-list{
+  padding: 5px;
+  margin-top: 100px;
+  border: 5px solid black purple;
+  background-color: #ffffff;
+  filter: aplha(opacity=80);
+  opacity: 0.8;
+}
+
+.help {
+  padding: 5px;
+  margin-top: 100px;
+  border: 5px solid green;
+  background-color: #ffffff;
+  filter: aplha(opacity=80);
+  opacity: 0.8;
+}
+
+.kankerop {
+  font-size: 100px;
+}
+
+.score-list2{
+  color: #000000;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.texting{
+  text-align: center;
+  font-size: 35px;
+}
+
+.texts{
+  text-align: center;
+  font-size: 55px;
+}
+
+.score-listboven{
+  margin-top:  50px;
+  padding: 5px;
+  border: 5px solid green;
+  background-color: #ffffff;
+  filter: aplha(opacity=90);
+  opacity: 0.9;
+}
+
+.score-list2boven{
+  color: #000000;
+  font-size: 50px;
+  font-weight: bold;
+
+}

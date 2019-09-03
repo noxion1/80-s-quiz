@@ -1,0 +1,177 @@
+
+body{ font: 14px Georgia, serif; background-image: url("img/nissa.jpg"); background-image: no-repeat;}
+
+#wrapper { width: 600px; margin: 0 auto; float: left; margin-left: 280px; margin-top: 32px;}
+#wrapper2 { width: 600px; margin: 0 auto; margin-left: 1000px; margin-top: 20px;}
+
+h1  { margin: 25px 0; font: 18px Georgia, Serif; text-transform: uppercase; letter-spacing: 3px; }
+
+
+
+#quiz ol {
+   margin: 0 0 10px 20px;
+}
+
+#quiz ol li {
+   margin: 0 0 20px 0;
+}
+
+#quiz ol li div {
+   padding: 4px 0;
+}
+
+#quiz ul{
+  list-style: none;
+}
+
+ ul{
+  list-style: none;
+}
+
+label{
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+h3{
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+.knopje{
+  float: middle;
+  text-align: center;
+  width: 200px;
+  height: 100px;
+  background: #1178f2;
+  border-radius: 25px;
+  filter: aplha(opacity=80);
+  opacity: 0.8;
+}
+
+.knop {
+  font-family: 'Indie Flower', cursive;
+  width: 200px;
+  height: 100px;
+  border-radius: 25px;
+  color: black;
+  padding-top: 5px;
+  font-size: 50px;
+  background-color: #1178f2
+
+}
+
+.header{
+  text-align: center;
+  width: 420px; height: 110px; margin: 0 auto; float: middle;
+  background-color: white;
+  filter: aplha(opacity=80);
+  opacity: 0.8;
+  border-radius: 25px;
+}
+
+.header h1 {
+  font-family: 'Merriweather', serif;
+  font-size: 40px;
+  margin: 5px;
+  padding-top: 10px;
+  -webkit-animation: color-change 2s infinite;
+        -moz-animation: color-change 2s infinite;
+        -o-animation: color-change 2s infinite;
+        -ms-animation: color-change 2s infinite;
+        animation: color-change 2s infinite;
+}
+
+@-webkit-keyframes color-change {
+        0% { color: red; }
+        25% {color: purple;}
+        50% { color: blue; }
+        75% {color: purple;}
+        100% { color: red; }
+    }
+    @-moz-keyframes color-change {
+        0% { color: red; }
+        25% {color: purple;}
+        50% { color: blue; }
+        75% {color: purple;}
+        100% { color: red; }
+    }
+    @-ms-keyframes color-change {
+        0% { color: red; }
+        25% {color: purple;}
+        50% { color: blue; }
+        75% {color: purple;}
+        100% { color: red; }
+    }
+    @-o-keyframes color-change {
+        0% { color: red; }
+        25% {color: purple;}
+        50% { color: blue; }
+        75% {color: purple;}
+        100% { color: red; }
+    }
+    @keyframes color-change {
+        0% { color: red; }
+        25% {color: purple;}
+        50% { color: blue; }
+        75% {color: purple;}
+        100% { color: red; }
+    }
+
+#results {
+    font: 44px Georgia, Serif;
+}
+
+.score-list{
+  padding: 5px;
+  margin: 5px;
+  border: 5px solid black purple;
+  background-color: #ffffff;
+  filter: aplha(opacity=80);
+  opacity: 0.8;
+  border-radius: 25px;
+}
+
+.help {
+  padding: 5px;
+  margin-top: 100px;
+  border: 5px solid purple;
+  background-color: #ffffff;
+  filter: aplha(opacity=80);
+  opacity: 0.8;
+}
+
+.kankerop {
+  font-size: 100px;
+}
+
+.score-list2{
+  color: #000000;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.texting{
+  text-align: center;
+  font-size: 35px;
+}
+
+.texts{
+  text-align: center;
+  font-size: 55px;
+}
+
+.score-listboven{
+  margin-top:  50px;
+  padding: 5px;
+  border: 5px solid green;
+  background-color: #ffffff;
+  filter: aplha(opacity=90);
+  opacity: 0.9;
+  border-radius: 25px;
+}
+
+.score-list2boven{
+  color: #000000;
+  font-size: 50px;
+  font-weight: bold;
+
+}
